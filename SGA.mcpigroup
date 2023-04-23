@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=2
+Project0=MyProject.mcppi
+Project1=..\..\..\..\TIMER\MyProject.mcppi
+Project2=..\..\..\..\TIMER\MyProject.mcppi
+[ActiveProject]
+Index=0
